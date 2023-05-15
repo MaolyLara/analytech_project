@@ -1,4 +1,4 @@
-- Insert de campos para a tabela sexo-
+-- Insert de campos para a tabela sexo --
 
 INSERT INTO sexo(code_sexo,sexo) 
   VALUES(1, 'Feminino'),
