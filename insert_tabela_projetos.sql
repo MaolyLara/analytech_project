@@ -1,19 +1,21 @@
+-- Insert de campos para a tabela projetos --
+
 INSERT INTO projetos (code_projeto, titulo, area, horas, data_Inicio, data_Fim, code_financiamento, costo, code_regiao)
 VALUES 
-('Beyy634','Estudo sobre o impacto das mudanças climáticas na biodiversidade da Amazônia','Meio Ambiente',390,'2019-07-20','2019-11-02','B',21893,2),
-('BaT2552','Análise da eficácia de novos tratamentos para doenças tropicais','Saúde',572,'2020-08-27','2020-09-17','B',44973,5),
-('Adaa3991','Desenvolvimento de tecnologias sustentáveis para a agricultura','Agricultura',1063,'2021-04-06','2021-09-26','A',77942,2),
-('CeT2796','Estudo sobre a influência da urbanização na qualidade do ar','Urbanização',1422,'2022-09-02','2022-10-18','C',7946,5),
-('Aacc251','Análise do impacto socioeconômico de políticas públicas na redução da pobreza','Economia',339,'2021-03-30','2021-05-30','A',50649,1),
-('Bevv4409','Estudo sobre a eficácia de programas de reciclagem em grandes cidades','Meio Ambiente',1225,'2019-07-11','2019-10-10','B',29413,4),
-('BaM4540','Análise da relação entre alimentação e doenças crônicas','Saúde',589,'2022-12-14','2023-04-22','B',20302,5),
-('AdO4205','Desenvolvimento de tecnologias para a produção de energia renovável','Energia',1237,'2020-03-29','2020-07-28','A',68652,1),
-('BeU3515','Estudo sobre o impacto do turismo na economia local','Economia',767,'2020-01-13','2020-06-11','B',42581,3),
-('Caab1326','Análise da influência da educação na mobilidade social','Educação',421,'2022-12-11','2023-01-17','C',5122,2),
-('CeR4773','Estudo sobre a relação entre transporte público e qualidade de vida','Urbanização',1125,'2018-12-11','2019-04-12','C',2693,3),
-('Adgg548','Desenvolvimento de tecnologias para a conservação da água','Recursos Hídricos',1039,'2021-10-02','2021-12-29','A',81347,2),
-('Aejj2286','Estudo sobre o impacto da globalização na cultura local','Cultura',1225,'2018-03-03','2018-04-09','A',60893,5),
-('AaC162','Análise da relação entre atividade física e saúde mental','Saúde',428,'2021-12-06','2022-03-17','A',85152,4);
+('Beyy634','Estudo sobre o impacto das mudanças climáticas na biodiversidade da Amazônia','Meio Ambiente',390,'2019-07-20','2019-11-02','B',21893,'2'),
+('BaT2552','Análise da eficácia de novos tratamentos para doenças tropicais','Saúde',572,'2020-08-27','2020-09-17','B',44973,'5'),
+('Adaa3991','Desenvolvimento de tecnologias sustentáveis para a agricultura','Agricultura',1063,'2021-04-06','2021-09-26','A',77942,'2'),
+('CeT2796','Estudo sobre a influência da urbanização na qualidade do ar','Urbanização',1422,'2022-09-02','2022-10-18','C',7946,'5'),
+('Aacc251','Análise do impacto socioeconômico de políticas públicas na redução da pobreza','Economia',339,'2021-03-30','2021-05-30','A',50649,'1'),
+('Bevv4409','Estudo sobre a eficácia de programas de reciclagem em grandes cidades','Meio Ambiente',1225,'2019-07-11','2019-10-10','B',29413,'4'),
+('BaM4540','Análise da relação entre alimentação e doenças crônicas','Saúde',589,'2022-12-14','2023-04-22','B',20302,'5'),
+('AdO4205','Desenvolvimento de tecnologias para a produção de energia renovável','Energia',1237,'2020-03-29','2020-07-28','A',68652,'1'),
+('BeU3515','Estudo sobre o impacto do turismo na economia local','Economia',767,'2020-01-13','2020-06-11','B',42581,'3'),
+('Caab1326','Análise da influência da educação na mobilidade social','Educação',421,'2022-12-11','2023-01-17','C',5122,'2'),
+('CeR4773','Estudo sobre a relação entre transporte público e qualidade de vida','Urbanização',1125,'2018-12-11','2019-04-12','C',2693,'3'),
+('Adgg548','Desenvolvimento de tecnologias para a conservação da água','Recursos Hídricos',1039,'2021-10-02','2021-12-29','A',81347,'2'),
+('Aejj2286','Estudo sobre o impacto da globalização na cultura local','Cultura',1225,'2018-03-03','2018-04-09','A',60893,'5'),
+('AaC162','Análise da relação entre atividade física e saúde mental','Saúde',428,'2021-12-06','2022-03-17','A',85152,'4');
 
 INSERT INTO projetos (code_projeto, titulo, area, horas, data_Inicio, data_Fim, code_financiamento, costo, code_regiao)
 VALUES
