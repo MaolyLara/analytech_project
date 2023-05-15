@@ -25,6 +25,8 @@ Após realizar uma análise inicial dos dados recebidos, foi realizado um tratam
 
 ![Mapa de Modelo de Entidades ERD - IBP ](https://github.com/MaolyLara/analytech_project/assets/85379351/37cf20ce-854c-4ee4-94d2-47be13f3d27a)
 
+![Mapa de Modelo de Entidades ERD - IBP](https://github.com/MaolyLara/analytech_project/assets/85379351/db3b6bcb-549d-43a9-9e7b-2221fdc7a91c)
+
 Foram adicionadas as tabelas de financiamento, área, região e sexo com o propósito de realizar análises abrangentes de negócios. Além disso, foram incluídas as colunas de hora, data de início e fim na tabela de projetos, visando analisar aspectos como produtividade, rendimento, logística, produção e oportunidades de negócio, entre outros insights valiosos para a tomada de decisões estratégicas.
 
 
