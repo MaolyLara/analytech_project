@@ -1,4 +1,4 @@
--Insert de campor para a tabela regiao-
+-- Insert de campor para a tabela regiao --
 
 INSERT INTO regiao(code_regiao,regiao) 
   VALUES ('1', 'Centro-Oeste'),
