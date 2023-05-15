@@ -23,7 +23,7 @@ recomendações (insights) que puderam ser obtidas com suas análises.
 
 Após realizar uma análise inicial dos dados recebidos, foi realizado um tratamento da base de dados com o objetivo de realizar análises mais abrangentes, robustas e completas, levando em consideração as soluções propostas para o tema inicial.
 
-![IBP](https://github.com/MaolyLara/analytech_project/assets/85379351/3da74835-11c7-485e-9d31-2b1a1fd255e9)
+<img>![IBP](https://github.com/MaolyLara/analytech_project/assets/85379351/3da74835-11c7-485e-9d31-2b1a1fd255e9)
 
 Foram adicionadas as tabelas de financiamento, área, região e sexo com o propósito de realizar análises abrangentes de negócios. Além disso, foram incluídas as colunas de hora, data de início e fim na tabela de projetos, visando analisar aspectos como produtividade, rendimento, logística, produção e oportunidades de negócio, entre outros insights valiosos para a tomada de decisões estratégicas.
 
