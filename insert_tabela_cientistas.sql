@@ -1,3 +1,5 @@
+- Insert da Cientistas para a Tabela cientistas -
+
 INSERT INTO cientistas(cpf, nome, code_regiao, code_sexo)
 	VALUES ('546.301.879-01','Miguel Cardoso',3,2),
 	('270.691.548-01','Rafael Souza',1,2),
