@@ -5,4 +5,4 @@
 
 📍 Contexto: Este é o trabalho de conclusão de curso que será realizado em grupo ou individualmente e de forma prática. Além de realizar o trabalho, o grupo deverá apresentar os seus resultados de modo que todos os participantes tenham oportunidade de falar.<br><br><br>
 
-Tema proposto: <strong>Cientistas</strong> 🔗 https://en.wikibooks.org/wiki/SQL_Exercises/Scientists
+Tema proposto: <strong>👩🏻‍🔬👨🏻‍🔬 Cientistas </strong> 🔗 https://en.wikibooks.org/wiki/SQL_Exercises/Scientists
