@@ -23,9 +23,9 @@ recomendações (insights) que puderam ser obtidas com suas análises.
 
 Após realizar uma análise inicial dos dados recebidos, foi realizado um tratamento da base de dados com o objetivo de realizar análises mais abrangentes, robustas e completas, levando em consideração as soluções propostas para o tema inicial.
 
-![Mapa de Modelo de Entidades ERD - IBP ](https://github.com/MaolyLara/analytech_project/assets/85379351/37cf20ce-854c-4ee4-94d2-47be13f3d27a)
+![Mapa de Modelo de Entidades ERD - IBP] (https://github.com/MaolyLara/analytech_project/assets/85379351/1cf40c2a-7a98-4d2b-86de-c65bfd0a8da3)
 
-![Mapa de Modelo de Entidades ERD - IBP](https://github.com/MaolyLara/analytech_project/assets/85379351/db3b6bcb-549d-43a9-9e7b-2221fdc7a91c)
+![Mapa de Modelo de Entidades ERD - IBP ] (https://github.com/MaolyLara/analytech_project/assets/85379351/e9b93fcb-8dcf-430b-b015-393f1e1efc91)
 
 Foram adicionadas as tabelas de financiamento, área, região e sexo com o propósito de realizar análises abrangentes de negócios. Além disso, foram incluídas as colunas de hora, data de início e fim na tabela de projetos, visando analisar aspectos como produtividade, rendimento, logística, produção e oportunidades de negócio, entre outros insights valiosos para a tomada de decisões estratégicas.
 
