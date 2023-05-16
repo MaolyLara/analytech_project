@@ -25,7 +25,7 @@ INSERT INTO area ( area) VALUES
     ('Ecologia'),
     ('Inclusão'),
     ('Imunologia'),
-    ('Bioquímica')
+    ('Bioquímica'),
     ('Medicina'),
     ('Biologia Molecular'),
     ('Consumo Consciente'),
@@ -50,7 +50,7 @@ INSERT INTO area ( area) VALUES
     ('Engenharia elétrica'),
     ('Engenharia'),
     ('Agroecologia'),
-    ('Ecologia de paisagem');
+    ('Ecologia de paisagem'),
     ('Comunicação'),
     ('Antropologia'),
     ('Sustentabilidade'),
@@ -74,7 +74,3 @@ INSERT INTO area ( area) VALUES
     ('Neurociência'),
     ('Toxicologia ambiental'),
     ('Planejamento Urbano');
-    
-
-
-
