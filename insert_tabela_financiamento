@@ -20,7 +20,7 @@ com uma variação de 20% para mais ou para menos. Exemplos de projetos dessa ca
 
 -- Inserindo valores --
 
-INSERT INTO financiamento (code_financiamento, descricao)
+INSERT INTO financiamento (code_financiamento, financiamento))
     VALUES ('A', 'Alto'),
            ('B', 'Medio'),
            ('C', 'Bajo');
