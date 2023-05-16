@@ -59,15 +59,15 @@ ENGINE = InnoDB;
 DROP TABLE IF EXISTS `ibp`.`projetos` ;
 
 CREATE TABLE IF NOT EXISTS `ibp`.`projetos` (
-  `code_projeto` INT NOT NULL AUTO_INCREMENT,
+  `code_projeto` VARCHAR(10) NOT NULL,
   `titulo` VARCHAR(250) NOT NULL,
+  `area` VARCHAR(45) NOT NULL,
   `horas` INT NOT NULL,
   `data_Inicio` DATE NOT NULL,
   `data_Fim` DATE NULL,
-  `costo` FLOAT NOT NULL,
-  `code_area` INT NOT NULL,
-  `code_regiao` INT NOT NULL,
   `code_financiamento` VARCHAR(1) NOT NULL,
+  `costo` FLOAT NOT NULL,
+  `code_regiao` INT NOT NULL,
   PRIMARY KEY (`code_projeto`, `code_area`, `code_regiao`, `code_financiamento`),
   INDEX `fk_projetos_table11_idx` (`code_area` ASC) VISIBLE,
   INDEX `fk_projetos_regiao1_idx` (`code_regiao` ASC) VISIBLE,
